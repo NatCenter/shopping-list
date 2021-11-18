@@ -75,7 +75,7 @@ const addToShoppingList = (newItem) => {
 
 const maxPrice = 8;
 
-//calls the function
+//calls the function for each object
 addToShoppingList(greens);
 addToShoppingList(duckRoast);
 addToShoppingList(hotDogs);
